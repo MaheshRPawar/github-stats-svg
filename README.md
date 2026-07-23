@@ -23,7 +23,9 @@ Just drop these into your README and swap in your own GitHub username:
 ```
 
 **Try it with any username right now** — this pulls live data, no auth needed on your end:
+<br>
 https://github-stats-svg-eight.vercel.app/api/stats?username=torvalds
+<br>
 https://github-stats-svg-eight.vercel.app/api/langs?username=torvalds
 
 This runs off my hosted instance. If you'd rather not depend on someone else's deployment at all, deploy your own copy below.
