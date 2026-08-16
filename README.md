@@ -3,10 +3,10 @@
 Self-hosted, animated GitHub stats and top-languages cards for your profile README. Built as a brighter, more distinctive alternative to the typical stats widgets — and self-hosted so it never depends on a shared public server going down.
 
 <p align="center">
-  <img height="240" src="https://github-stats-svg-eight.vercel.app/api/stats?username=MR1229" />
+  <img height="240" src="https://github-stats-svg-eight.vercel.app/api/stats?username=MaheshRPawar" />
 </p>
 <p align="center">
-  <img src="https://github-stats-svg-eight.vercel.app/api/langs?username=MR1229" />
+  <img src="https://github-stats-svg-eight.vercel.app/api/langs?username=MaheshRPawar" />
 </p>
 
 ## Why this exists
